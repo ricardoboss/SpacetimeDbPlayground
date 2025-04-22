@@ -4,7 +4,7 @@ using SpacetimeDB.Types;
 // ReSharper disable InvalidXmlDocComment
 
 /// The URI of the SpacetimeDB instance hosting our chat module.
-const string host = "http://localhost:3000";
+const string host = "http://127.0.0.1:3000";
 
 /// The module name we chose when we published our module.
 const string dbname = "quickstart-chat";
