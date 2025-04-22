@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StdbModule", "server\StdbModule.csproj", "{A9F54791-E675-4778-B919-A12CD9FF3FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "client\client.csproj", "{4BB185E7-80E4-45D0-AD7A-8BB3C6B44EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F54791-E675-4778-B919-A12CD9FF3FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F54791-E675-4778-B919-A12CD9FF3FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F54791-E675-4778-B919-A12CD9FF3FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F54791-E675-4778-B919-A12CD9FF3FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BB185E7-80E4-45D0-AD7A-8BB3C6B44EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB185E7-80E4-45D0-AD7A-8BB3C6B44EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB185E7-80E4-45D0-AD7A-8BB3C6B44EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB185E7-80E4-45D0-AD7A-8BB3C6B44EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
